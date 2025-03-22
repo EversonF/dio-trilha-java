@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "Exemplos_c9acc96f"
+        },
+        {
+            "type": "java",
             "name": "ExemploForArray",
             "request": "launch",
             "mainClass": "ExemploForArray",
